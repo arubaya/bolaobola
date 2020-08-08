@@ -1,0 +1,25 @@
+.list-title {
+    display: flex;
+    align-items: center;
+    padding: 1rem; 
+    width: 100%;
+}
+
+.col-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: right;
+}
+.col-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+.col-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
